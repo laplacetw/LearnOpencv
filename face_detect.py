@@ -35,7 +35,6 @@ while(True):
         break
 
 cap.release()
-writer.release()
 # cv2.imshow('face detect',img)
 # cv2.waitKey(0)
 cv2.destroyAllWindows()
